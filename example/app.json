@@ -1,10 +1,10 @@
 {
-  "name": "TestLibraryExample",
-  "displayName": "TestLibraryExample",
+  "name": "BobTestExample",
+  "displayName": "BobTestExample",
   "components": [
     {
-      "appKey": "TestLibraryExample",
-      "displayName": "TestLibraryExample"
+      "appKey": "BobTestExample",
+      "displayName": "BobTestExample"
     }
   ],
   "resources": {
@@ -30,9 +30,9 @@
     ]
   },
   "android": {
-    "package": "testlibrary.example"
+    "package": "bobtest.example"
   },
   "ios": {
-    "bundleIdentifier": "testlibrary.example"
+    "bundleIdentifier": "bobtest.example"
   }
 }

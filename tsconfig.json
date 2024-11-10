@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "test-library": ["./src/index"]
+      "bob-test": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

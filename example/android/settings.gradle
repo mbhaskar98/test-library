@@ -6,7 +6,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "TestLibraryExample"
+rootProject.name = "BobTestExample"
 
 apply(from: {
     def searchDir = rootDir.toPath()

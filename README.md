@@ -1,22 +1,22 @@
-# test-library
+# bob-test
 
-testing
+test
 
 ## Installation
 
 ```sh
-npm install test-library
+npm install bob-test
 ```
 
 ## Usage
 
 
 ```js
-import { multiply } from 'test-library';
+import { multiply } from 'bob-test';
 
 // ...
 
-const result = multiply(3, 7);
+const result = await multiply(3, 7);
 ```
 
 
